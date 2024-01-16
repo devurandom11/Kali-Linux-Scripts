@@ -42,3 +42,4 @@ Checks if the installation directory is specified. If specified, it proceeds to 
 - Ensure you have the necessary permissions to execute the script.
 - The installation process may take several minutes to complete, depending on your internet speed.
 - It's essential to wait until the feed data is completely loaded for accurate scan results.
+- The GUI interface is bound to all interfaces and available at your machine IP address on port 9392, or `127.0.0.1:9392`.
